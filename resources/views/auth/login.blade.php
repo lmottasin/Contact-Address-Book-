@@ -93,7 +93,7 @@
                             </form>
                             </div>
                         </div>
-                        <div class="text-center text-white opacity-8 mt-3">Copyright © HotelManagement <?php echo date("Y") ?></div>
+                        <div class="text-center text-white opacity-8 mt-3">Copyright © Contact Address Book <?php echo date("Y") ?></div>
                     </div>
                 </div>
             </div>

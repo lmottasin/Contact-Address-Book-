@@ -53,7 +53,7 @@
                         </div>
                     </div>
                     {{-- Footer Section --}}
-                    @include('partials._footer')
+{{--                    @include('partials._footer')--}}
 
                 </div>
             </div>
