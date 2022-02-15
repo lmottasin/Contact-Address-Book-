@@ -12,6 +12,7 @@ class HomeController extends Controller
      */
     public function __construct()
     {
+//        return redirect()->route('contact.index');
         $this->middleware('auth');
     }
 

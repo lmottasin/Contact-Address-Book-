@@ -1,6 +1,6 @@
 <div class="header-mobile-wrapper">
     <div class="app-header__logo">
-        <a href="{{ route('home') }}" data-toggle="tooltip" data-placement="bottom" title="Contact Management System">
+        <a href="{{ route('contact.index') }}" data-toggle="tooltip" data-placement="bottom" title="Contact Management System">
             {{-- <img width="42" class="rounded" src="http://127.0.0.1:8000/assets/images/avatars/3.jpg" alt=""> --}}
             <div class="icon-wrapper rounded-circle">
                 <div class="icon-wrapper-bg opacity-10 bg-warning"></div>
