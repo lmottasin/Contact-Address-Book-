@@ -2,7 +2,7 @@
 ## Succesfully passed this round with this small project.
 * ![image](https://user-images.githubusercontent.com/68915904/197792264-f5a1126a-f912-4e4a-b3c2-45d33690e528.png)
 
-[![DEMO](https://user-images.githubusercontent.com/68915904/197807915-6935eb6e-5c7b-47b4-963b-a430d1b2f6b4.png)](https://www.youtube.com/embed/A-mcKlYCTAQ)
+[![DEMO](https://user-images.githubusercontent.com/68915904/197807915-6935eb6e-5c7b-47b4-963b-a430d1b2f6b4.png)](https://drive.google.com/file/d/1f-TnLw-qSZnupA4bAU3x7MJ3csFpyVD9/view?usp=sharing)
 
 ## Requirement: 
 
